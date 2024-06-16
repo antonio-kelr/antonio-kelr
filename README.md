@@ -29,4 +29,4 @@
 
 </div>
 
-   ![Snake animation](https://github.com/antonio-kelr/antonio-kelr/blob/output/github-contribution-grid-snake.svg)
+  ![snake gif](https://github.com/antonio-kelr/antonio-kelr/blob/output/github-contribution-grid-snake-dark.svg)

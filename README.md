@@ -10,14 +10,12 @@ Meu nome é Antonio Rosa da Conceição Filho, tenho 19 anos e sou natural de Bu
     <img 
         alt="E-mail" 
         src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-</a><a href="https://www.linkedin.com/in/antonio-filho-/" target="_blank">
-    <img 
-        alt="LinkedIn" 
-        title="Meu LinkedIn" 
-        src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"
-    />
 </a>
-</p>
+<a href="https://www.linkedin.com/in/antoniodev-fullstack/" target="_blank">
+  <img 
+    alt="LinkedIn" 
+    src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a></p>
 
 ---
 

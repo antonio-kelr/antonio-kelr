@@ -1,6 +1,6 @@
 # 👩🏻‍💻 Antonio filho
 
-**`Desenvolvedora FullStack`**
+**`Desenvolvedor FullStack`**
 
 Meu nome é Antonio Rosa da Conceição Filho, tenho 19 anos e sou natural de Buriticupu – Maranhão. Concluí o ensino médio e sou apaixonado por tecnologia. Estou sempre buscando aprender e desenvolver minhas habilidades em programação e desenvolvimento web, com o objetivo de crescer profissionalmente na área de tecnologia e contribuir com soluções que tragam resultados.
 
